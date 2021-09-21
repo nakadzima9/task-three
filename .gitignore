@@ -1,5 +1,5 @@
 .env
-/venv
-/migrations
-/__psycache__
+venv
+migrations/
+__psycache__/
 db.sqlite3
